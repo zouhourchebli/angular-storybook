@@ -1,0 +1,10 @@
+@import '~@angular/material/theming';
+
+@import '~perfect-scrollbar/css/perfect-scrollbar.css';
+
+@import 'app/app.theming';
+@import 'styles/styles';
+@import 'styles/components';
+
+@include mat-core();
+
